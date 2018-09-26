@@ -12,7 +12,7 @@ Labs and Final Project (SnakeyNix) from the LCOM curricular unit.
 * **Date:** 2nd Year, 1st Semester, 2017/2018
 * **Course:** Laboratório de Computadores (LCOM) | Computer Laboratories
 * **Course Link:** https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=399888
-* **Project's Collaboration:** Filipa Durão (FilipaDurao)
+* **Project's Collaboration:** Rui Alves (xRuiAlves)
 
 
 ### Disclaimer
@@ -21,6 +21,6 @@ This repository, and every other `FEUP-COURSE*` repos on GitHub correspond to sc
 (Credits to Miguel Pereira Duarte (miguelpduarte , https://github.com/miguelpduarte) for the README layout)
 
 ### Notes:
-All the Labs and the final project developed in this course were in full collaboration with my lab partener, Filipa Durão (FilipaDurao , https://github.com/FilipaDurao).
+All the Labs and the final project developed in this course were in full collaboration with my lab partener, Rui Alves (xRuiAlves , https://github.com/xRuiAlves).
 This course's grade is only based on the evaluation of the laboratories and final project. For this reason, the course's teachers are very straight when it comes to copying code: They have a good algorithm that finds if you are re-using code from me or from any other student that has already completed the course. Thus, I strongly advise you to not copy any code: The punishments are from 0 in the Lab grade to instantly failing the Curricular Unit. Be honest and don't cheat. I will hold no responsability whatsoever if you get caught cheating.
 Also, some of the libraries and header files in this repository were not developed by me or by my co-worker, they were developed and handed to us by the curricular unit teachers.
